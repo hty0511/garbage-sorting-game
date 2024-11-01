@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bottle
+  - bg
+  - trash
+  - paper
+  - food
+  - 123
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - HiddenLayer
+  - Water
+  - UI
+  - VisibleLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: hide
+    uniqueID: 669692361
+    locked: 0
+  - name: background
+    uniqueID: 2475531907
+    locked: 0
+  - name: UI
+    uniqueID: 533497135
+    locked: 0
